@@ -1,0 +1,1 @@
+curl -X POST --data-urlencode 'payload={"text": "This is posted to <#general> and comes from *monkey-bot*.", "channel": "#general", "username": "monkey-bot", "icon_emoji": ":monkey_face:"}' https://hooks.slack.com/services/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
